@@ -9,6 +9,8 @@ OtherWorlds requires the following mods to function:
 
 * [Kopernicus](http://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-kopernicus-release-1-may-27/) (LGPL 3.0)
 
-# Atmospheres
+# Enhancements
 
-For the additional atmospheric enhancements, you must download [KerbalVisualEnhancements](https://github.com/RangeMachine/KerbalVisualEnhancements/releases)
+For the atmospheric enhancements, you must download [KerbalVisualEnhancements](https://github.com/RangeMachine/KerbalVisualEnhancements/releases)
+
+For distant object enhancements, you must download [Distant Object Enhancement](https://github.com/MOARdV/DistantObject/releases/)
