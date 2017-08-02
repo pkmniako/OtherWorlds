@@ -14,3 +14,5 @@ OtherWorlds requires the following mods to function:
 For the atmospheric enhancements, you must download [KerbalVisualEnhancements](https://github.com/RangeMachine/KerbalVisualEnhancements/releases)
 
 For distant object enhancements, you must download [Distant Object Enhancement](https://github.com/MOARdV/DistantObject/releases/)
+
+For custom asteroids, you must download [Custom Asteroids](https://github.com/Starstrider42/Custom-Asteroids/releases)
