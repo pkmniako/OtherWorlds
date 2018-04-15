@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace LaserSail
 {
-    public class LaserSailModule : PartModule
+    public class ModuleLaserSail : PartModule
     {
         //Sail Data
         [KSPField(isPersistant = true)]
